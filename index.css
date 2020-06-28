@@ -59,7 +59,6 @@ body {
 }
 
 .content {
-/*     border         : 1px solid red; */
     height         : 320px;
     position       : absolute;
     display        : flex;
